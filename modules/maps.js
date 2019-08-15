@@ -12,7 +12,7 @@ MODULES.maps.MapTier2Sliders=[9,9,9,"Random"];
 MODULES.maps.MapTier3Sliders=[9,9,9,"Random"];
 MODULES.maps.preferGardens=!getPageSetting("PreferMetal");
 MODULES.maps.SpireFarm199Maps=!0;
-MODULES.maps.shouldFarmCell=59;
+MODULES.maps.shouldFarmCell=98;
 MODULES.maps.SkipNumUnboughtPrestiges=2;
 MODULES.maps.UnearnedPrestigesRequired=2;
 
