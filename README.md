@@ -15,7 +15,7 @@ https://www.tampermonkey.net/
 
 Step 2: 
 
-Click this link: https://github.com/KreuzSoleil/AutoTrimps/raw/master/.user.js
+Click this link: https://github.com/KreuzSoleil/AutoTrimps/blob/master/.user.js
 
 Step 3: 
 
